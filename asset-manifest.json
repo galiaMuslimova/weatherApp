@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/galiaMuslimova/weatherApp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/galiaMuslimova/weatherApp/static/js/main.ddabff8d.chunk.js",
+    "main.js.map": "/galiaMuslimova/weatherApp/static/js/main.ddabff8d.chunk.js.map",
+    "runtime-main.js": "/galiaMuslimova/weatherApp/static/js/runtime-main.b0d8c346.js",
+    "runtime-main.js.map": "/galiaMuslimova/weatherApp/static/js/runtime-main.b0d8c346.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/galiaMuslimova/weatherApp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5a39c0d5.chunk.js": "/galiaMuslimova/weatherApp/static/js/2.5a39c0d5.chunk.js",
+    "static/js/2.5a39c0d5.chunk.js.map": "/galiaMuslimova/weatherApp/static/js/2.5a39c0d5.chunk.js.map",
+    "index.html": "/galiaMuslimova/weatherApp/index.html",
+    "precache-manifest.7091d6e48629970d0bf902bc82565a97.js": "/galiaMuslimova/weatherApp/precache-manifest.7091d6e48629970d0bf902bc82565a97.js",
+    "service-worker.js": "/galiaMuslimova/weatherApp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/galiaMuslimova/weatherApp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/galiaMuslimova/weatherApp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5a39c0d5.chunk.js.LICENSE.txt": "/galiaMuslimova/weatherApp/static/js/2.5a39c0d5.chunk.js.LICENSE.txt",
+    "static/media/cloud.png": "/galiaMuslimova/weatherApp/static/media/cloud.98491cb4.png",
+    "static/media/clouds-sun.png": "/galiaMuslimova/weatherApp/static/media/clouds-sun.66d07c0d.png",
+    "static/media/rain.png": "/galiaMuslimova/weatherApp/static/media/rain.20617485.png",
+    "static/media/snow.png": "/galiaMuslimova/weatherApp/static/media/snow.3260a1dc.png",
+    "static/media/sun.png": "/galiaMuslimova/weatherApp/static/media/sun.c7171d58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d8c346.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5a39c0d5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ddabff8d.chunk.js"
+  ]
+}
