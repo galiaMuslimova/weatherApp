@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c5e2cfdc38a03537fd4f46df03f6535",
+    "revision": "2d3dafa16b1b9be591e7d5b0aff787e5",
     "url": "/galiaMuslimova/weatherApp/index.html"
   },
   {
-    "revision": "4ba7158b292915df71e3",
+    "revision": "522ce3e5d6fb84a75351",
     "url": "/galiaMuslimova/weatherApp/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0372b397011396839c5f",
+    "revision": "ed1fd9126614854d8017",
     "url": "/galiaMuslimova/weatherApp/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "4ba7158b292915df71e3",
-    "url": "/galiaMuslimova/weatherApp/static/js/2.5a39c0d5.chunk.js"
+    "revision": "522ce3e5d6fb84a75351",
+    "url": "/galiaMuslimova/weatherApp/static/js/2.2ba34d2a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/galiaMuslimova/weatherApp/static/js/2.5a39c0d5.chunk.js.LICENSE.txt"
+    "url": "/galiaMuslimova/weatherApp/static/js/2.2ba34d2a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0372b397011396839c5f",
-    "url": "/galiaMuslimova/weatherApp/static/js/main.ddabff8d.chunk.js"
+    "revision": "ed1fd9126614854d8017",
+    "url": "/galiaMuslimova/weatherApp/static/js/main.559fbf34.chunk.js"
   },
   {
-    "revision": "d5c0aea2873a28c9616e",
-    "url": "/galiaMuslimova/weatherApp/static/js/runtime-main.b0d8c346.js"
+    "revision": "b1e7009b76a4e3f158ee",
+    "url": "/galiaMuslimova/weatherApp/static/js/runtime-main.127e8244.js"
   },
   {
     "revision": "98491cb4556832d78e073b887376985a",
