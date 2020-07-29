@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/galiaMuslimova/weatherApp/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/galiaMuslimova/weatherApp/static/js/main.559fbf34.chunk.js",
-    "main.js.map": "/galiaMuslimova/weatherApp/static/js/main.559fbf34.chunk.js.map",
-    "runtime-main.js": "/galiaMuslimova/weatherApp/static/js/runtime-main.127e8244.js",
-    "runtime-main.js.map": "/galiaMuslimova/weatherApp/static/js/runtime-main.127e8244.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/galiaMuslimova/weatherApp/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.2ba34d2a.chunk.js": "/galiaMuslimova/weatherApp/static/js/2.2ba34d2a.chunk.js",
-    "static/js/2.2ba34d2a.chunk.js.map": "/galiaMuslimova/weatherApp/static/js/2.2ba34d2a.chunk.js.map",
-    "index.html": "/galiaMuslimova/weatherApp/index.html",
-    "precache-manifest.070854cf232409665b7b6529405f4073.js": "/galiaMuslimova/weatherApp/precache-manifest.070854cf232409665b7b6529405f4073.js",
-    "service-worker.js": "/galiaMuslimova/weatherApp/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/galiaMuslimova/weatherApp/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5ecd60fb.chunk.css.map": "/galiaMuslimova/weatherApp/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.2ba34d2a.chunk.js.LICENSE.txt": "/galiaMuslimova/weatherApp/static/js/2.2ba34d2a.chunk.js.LICENSE.txt",
-    "static/media/cloud.png": "/galiaMuslimova/weatherApp/static/media/cloud.98491cb4.png",
-    "static/media/clouds-sun.png": "/galiaMuslimova/weatherApp/static/media/clouds-sun.66d07c0d.png",
-    "static/media/rain.png": "/galiaMuslimova/weatherApp/static/media/rain.20617485.png",
-    "static/media/snow.png": "/galiaMuslimova/weatherApp/static/media/snow.3260a1dc.png",
-    "static/media/sun.png": "/galiaMuslimova/weatherApp/static/media/sun.c7171d58.png"
+    "main.css": "/galiaMuslimova/weatherApp/tree/gh-pages/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/main.cc89a6cf.chunk.js",
+    "main.js.map": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/main.cc89a6cf.chunk.js.map",
+    "runtime-main.js": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/runtime-main.92ae5297.js",
+    "runtime-main.js.map": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/runtime-main.92ae5297.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/galiaMuslimova/weatherApp/tree/gh-pages/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.2ba34d2a.chunk.js": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/2.2ba34d2a.chunk.js",
+    "static/js/2.2ba34d2a.chunk.js.map": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/2.2ba34d2a.chunk.js.map",
+    "index.html": "/galiaMuslimova/weatherApp/tree/gh-pages/index.html",
+    "precache-manifest.9d33c4dd1323838c060287ed3cac2cf9.js": "/galiaMuslimova/weatherApp/tree/gh-pages/precache-manifest.9d33c4dd1323838c060287ed3cac2cf9.js",
+    "service-worker.js": "/galiaMuslimova/weatherApp/tree/gh-pages/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/galiaMuslimova/weatherApp/tree/gh-pages/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/galiaMuslimova/weatherApp/tree/gh-pages/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2ba34d2a.chunk.js.LICENSE.txt": "/galiaMuslimova/weatherApp/tree/gh-pages/static/js/2.2ba34d2a.chunk.js.LICENSE.txt",
+    "static/media/cloud.png": "/galiaMuslimova/weatherApp/tree/gh-pages/static/media/cloud.98491cb4.png",
+    "static/media/clouds-sun.png": "/galiaMuslimova/weatherApp/tree/gh-pages/static/media/clouds-sun.66d07c0d.png",
+    "static/media/rain.png": "/galiaMuslimova/weatherApp/tree/gh-pages/static/media/rain.20617485.png",
+    "static/media/snow.png": "/galiaMuslimova/weatherApp/tree/gh-pages/static/media/snow.3260a1dc.png",
+    "static/media/sun.png": "/galiaMuslimova/weatherApp/tree/gh-pages/static/media/sun.c7171d58.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.127e8244.js",
+    "static/js/runtime-main.92ae5297.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.2ba34d2a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.559fbf34.chunk.js"
+    "static/js/main.cc89a6cf.chunk.js"
   ]
 }
